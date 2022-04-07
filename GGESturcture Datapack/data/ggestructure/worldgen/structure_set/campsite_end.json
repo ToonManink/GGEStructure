@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "ggestructure:campsite_end",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 40,
+    "separation": 12,
+    "salt": 1425467453
+  }
+}

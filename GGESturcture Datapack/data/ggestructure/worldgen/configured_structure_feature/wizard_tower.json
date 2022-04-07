@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:village",
+  "config": {
+    "start_pool": "ggestructure:wizard_tower",
+    "size": 7
+  },
+  "biomes": "#ggestructure:saufocean",
+  "adapt_noise": true,
+  "spawn_overrides": {}
+}

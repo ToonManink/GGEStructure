@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "ggestructure:birch_camp",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 25,
+    "separation": 20,
+    "salt": 1425464612
+  }
+}

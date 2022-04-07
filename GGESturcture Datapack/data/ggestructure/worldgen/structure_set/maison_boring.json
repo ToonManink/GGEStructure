@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "ggestructure:maison_boring",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 75,
+    "separation": 55,
+    "salt": 1425467519
+  }
+}

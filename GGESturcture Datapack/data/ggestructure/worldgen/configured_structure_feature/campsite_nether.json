@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:village",
+  "config": {
+    "start_pool": "ggestructure:campsite_nether",
+    "size": 1
+  },
+  "biomes": "#minecraft:has_structure/bastion_remnant",
+  "adapt_noise": true,
+  "spawn_overrides": {}
+}

@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "ggestructure:lone_bales",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 30,
+    "separation": 5,
+    "salt": 1425467186
+  }
+}

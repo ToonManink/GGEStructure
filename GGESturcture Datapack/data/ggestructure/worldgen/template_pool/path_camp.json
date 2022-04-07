@@ -1,0 +1,105 @@
+{
+  "name": "ggestructure:path_camp",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 4,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "ggestructure:camp_path_1",
+        "projection": "terrain_matching",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "ggestructure:camp_path_2",
+        "projection": "terrain_matching",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 3,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "ggestructure:camp_path_3",
+        "projection": "terrain_matching",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 3,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "ggestructure:camp_path_4",
+        "projection": "terrain_matching",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "ggestructure:camp_path_5",
+        "projection": "terrain_matching",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 5,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "ggestructure:camp_path_6",
+        "projection": "terrain_matching",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 4,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "ggestructure:camp_path_7",
+        "projection": "terrain_matching",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 4,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "ggestructure:camp_path_8",
+        "projection": "terrain_matching",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 4,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "ggestructure:camp_path_9",
+        "projection": "terrain_matching",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight":4,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "ggestructure:camp_path_10",
+        "projection": "terrain_matching",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight":2,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "ggestructure:camp_path_11",
+        "projection": "terrain_matching",
+        "processors": "minecraft:empty"
+      }
+    }
+  ]
+}

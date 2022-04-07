@@ -1,0 +1,15 @@
+{
+  "name": "ggestructure:birch_camp",
+  "fallback": "ggestructure:path_camp",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "ggestructure:birch_camp",
+        "projection": "terrain_matching",
+        "processors": "minecraft:empty"
+      }
+    }
+  ]
+}

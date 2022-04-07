@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "ggestructure:combat_post",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 47,
+    "separation": 38,
+    "salt": 1425467536
+  }
+}

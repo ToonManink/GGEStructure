@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:village",
+  "config": {
+    "start_pool": "ggestructure:mega_hive",
+    "size": 1
+  },
+  "biomes": "minecraft:flower_forest",
+  "adapt_noise": true,
+  "spawn_overrides": {}
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:village",
+  "config": {
+    "start_pool": "ggestructure:bunckerdeepslate",
+    "size": 1
+  },
+    "biomes": [
+    "minecraft:plain",
+    "minecraft:forest"
+  ],
+  "adapt_noise": true,
+  "spawn_overrides": {}
+}

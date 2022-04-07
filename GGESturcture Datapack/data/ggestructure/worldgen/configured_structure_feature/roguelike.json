@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:village",
+  "config": {
+    "start_pool": "ggestructure:roguelike",
+    "size": 7
+  },
+  "biomes": "#ggestructure:saufocean",
+  "adapt_noise": false,
+  "spawn_overrides": {}
+}

@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:village",
+  "config": {
+    "start_pool": "ggestructure:campsite_overworld",
+    "size": 1
+  },
+  "biomes": "#ggestructure:has_structure/camp",
+  "adapt_noise": true,
+  "spawn_overrides": {}
+}

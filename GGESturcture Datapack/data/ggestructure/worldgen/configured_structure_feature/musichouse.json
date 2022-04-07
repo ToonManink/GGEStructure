@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:village",
+  "config": {
+    "start_pool": "ggestructure:musichouse",
+    "size": 1
+  },
+  "biomes": "#ggestructure:saufocean",
+  "adapt_noise": true,
+  "spawn_overrides": {}
+}

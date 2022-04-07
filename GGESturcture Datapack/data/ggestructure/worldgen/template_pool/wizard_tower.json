@@ -1,0 +1,15 @@
+{
+  "name": "ggestructure:wizard_tower",
+  "fallback": "minecraft:mage_tower_room",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "ggestructure:wizard_tower",
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    }
+  ]
+}
