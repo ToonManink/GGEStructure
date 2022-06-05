@@ -93,15 +93,6 @@
       }
     },
     {
-      "weight": 2,
-      "element": {
-        "element_type": "minecraft:single_pool_element",
-        "location": "ggestructure:roguelike_room_stop_1",
-        "projection": "rigid",
-        "processors": "minecraft:empty"
-      }
-    },
-    {
       "weight": 5,
       "element": {
         "element_type": "minecraft:single_pool_element",
@@ -390,6 +381,33 @@
       }
     },
     {
+      "weight": 12,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "ggestructure:roguelike_room_minecart_1",
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "ggestructure:roguelike_room_dark_forest_peacfull_1",
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "ggestructure:roguelike_room_water_chests_1",
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
       "weight": 2,
       "element": {
         "element_type": "minecraft:single_pool_element",
@@ -412,6 +430,159 @@
       "element": {
         "element_type": "minecraft:single_pool_element",
         "location": "ggestructure:roguelike_room_fall_small_1",
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 3,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "ggestructure:roguelike_room_aquarium_1",
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "ggestructure:roguelike_room_aquarium_chests_1",
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 4,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "ggestructure:roguelike_room_dark_forest_hostill_1",
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 4,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "ggestructure:roguelike_room_dark_forest_monster_and_chest_1",
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    },
+    /*{
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "ggestructure:roguelike_room_minecart_hell_1",
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "ggestructure:roguelike_room_minecart_hell_chests_1",
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "ggestructure:roguelike_room_minecart_hell_hard_1",
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "ggestructure:roguelike_room_minecart_hell_hard_chests_1",
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    },*/
+    {
+      "weight": 8,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "ggestructure:roguelike_room_minecart_spawner_1",
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 7,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "ggestructure:roguelike_room_minecart_1",
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 6,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "ggestructure:roguelike_room_pause",
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 4,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "ggestructure:roguelike_room_water_1",
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 5,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "ggestructure:roguelike_room_water_spawners_1",
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 4,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "ggestructure:roguelike_room_water_spawners_chests_1",
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "ggestructure:roguelike_room_ametysme_1",
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "ggestructure:roguelike_room_ametysme_spawner_1",
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "ggestructure:roguelike_room_ametysme_spawner_hard_1",
         "projection": "rigid",
         "processors": "minecraft:empty"
       }
